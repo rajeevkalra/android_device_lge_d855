@@ -2,7 +2,7 @@ Copyright 2014 - The CyanogenMod Project
 
 Copyright 2017 - The LineageOS Project
 
-Device configuration for LGE G3 (International)
+Device configuration for LGE G3 (Dual-LTE)
 =====================================
 
 Basic   | Spec Sheet
@@ -21,4 +21,4 @@ Camera  | 13 MP, 4160 x 3120 pixels
 Release Date | July 2014
 
 
-![LG G3 D855](http://i.imgur.com/sYNKEHq.jpg "LG G3 D855")
+![LG G3 D858](http://i.imgur.com/sYNKEHq.jpg "LG G3 D858")
