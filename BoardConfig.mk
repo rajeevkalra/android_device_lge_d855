@@ -73,6 +73,7 @@ TARGET_QCOM_NO_FM_FIRMWARE := true
 -include vendor/lge/d858/BoardConfigVendor.mk
 
 # TWRP
+PRODUCT_COPY_FILES += device/lge/d858/twrp.fstab:recovery/root/etc/twrp.fstab
 TW_THEME := portrait_hdpi
 RECOVERY_SDCARD_ON_DATA := true
 TW_EXCLUDE_SUPERSU := true
