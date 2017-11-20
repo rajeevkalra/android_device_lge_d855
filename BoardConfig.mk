@@ -71,3 +71,17 @@ TARGET_QCOM_NO_FM_FIRMWARE := true
 
 # inherit from the proprietary version
 -include vendor/lge/d858/BoardConfigVendor.mk
+
+# TWRP
+TW_THEME := portrait_hdpi
+RECOVERY_SDCARD_ON_DATA := true
+TW_EXCLUDE_SUPERSU := true
+TW_INCLUDE_FUSE_EXFAT := true
+TW_INCLUDE_JPEG := true
+TW_INCLUDE_NTFS_3G := true
+TW_FLASH_FROM_STORAGE := true
+TW_DEFAULT_EXTERNAL_STORAGE := true
+TW_INCLUDE_CRYPTO := true
+TW_INCLUDE_L_CRYPTO := true
+TW_NO_SCREEN_BLANK := true
+TWHAVE_SELINUX := true
